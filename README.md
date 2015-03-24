@@ -1,2 +1,9 @@
-# husky_customization
-Template for user customizations of husky_description
+husky_customization
+===================
+
+Templates for user customization of Husky description (URDF) and Gazebo configuration.
+
+ - husky_custom_description : Template for creating a custom URDF description Husky robot
+ - husky_custom_gazebo : Template for creating a custom Gazebo simulation configuration
+
+For Husky instructions and tutorials, please see http://wiki.ros.org/Robots/Husky
