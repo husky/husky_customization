@@ -4,7 +4,7 @@ project(husky_custom_gazebo)
 find_package(catkin)
 
 catkin_package()
-catkin_add_env_hooks(50.husky_custom_gazebo
+catkin_add_env_hooks(60.husky_custom_gazebo
   SHELLS sh DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/env-hooks)
 
 install(
